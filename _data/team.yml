@@ -1,0 +1,55 @@
+- name: Britta Perry
+  image: team1.jpg
+  email: email@gmail.com
+  phone: 9659 43 21
+
+- name: Troy Barnes 
+  image: team2.jpg
+  email: email@gmail.com
+  phone: 9659 43 21
+
+- name: Annie
+  image: team4.jpg
+  email: email@gmail.com
+  phone: 9659 43 21
+
+- name: Jeff Winger
+  image: team3.jpg
+  email: email@gmail.com
+  phone: 9659 43 21
+
+- name: Britta Perry
+  image: team1.jpg
+  email: email@gmail.com
+  phone: 9659 43 21
+
+- name: Troy Barnes
+  image: team2.jpg
+  email: email@gmail.com
+  phone: 9659 43 21
+
+- name: Annie
+  image: team4.jpg
+  email: email@gmail.com
+  phone: 9659 43 21
+  
+#- name: Otto Fleiss
+#  image: team1.jpg
+#  email: email@gmail.com- name: Britta Perry  
+#  phone: 9659 43 21
+
+#- name: Helga Fleiss 
+#  image: team2.jpg
+#  email: email@gmail.com
+#  phone: 9659 43 21
+
+#- name: Peter Holzer
+#  image: team3.jpg
+#  email: email@gmail.com
+#  phone: 9659 43 21
+
+#- name: Dr. Ritter
+#  image: team4.jpg
+#  email: email@gmail.com
+#  phone: 9659 43 21
+

@@ -1,0 +1,24 @@
+#- icon: icon-user-md
+- icon: icon-back-exam
+  title: Back Diagnostics
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+
+- icon: icon-video-standing
+  title: Back Video Filming - Static
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+
+- icon: icon-video-walking
+  title: Back Video Filming - Walking
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+
+- icon: icon-image-analysis
+  title: Video Analysis
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+
+- icon: icon-thearpy-plan
+  title: Customized Back Thearpy Program
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+
+- icon: icon-back-exam
+  title: Follow-up Back Diagnostics
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?

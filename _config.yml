@@ -1,0 +1,66 @@
+# Site settings
+title: Back Thearpy | Back Thearpy Jekyll Theme
+description: "A responsive Jekyll theme for Back Therapy."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the name of your domain
+logo_url: svg/min/logo.svg
+
+# Hero
+hero: 
+    hero_img: hero.jpg
+    hero_title: A Happy Patient
+    hero_description: The Fleiss method was effective for this patient.
+
+# Contact form
+api_token: # Enter API token here
+
+# Contact info
+contact:
+    phone: 932 50 540
+    emergency: 931 53 234
+    email: contact@yoursite.com
+    address: Herbersteinstrasse 76, Graz, Austria
+
+# Opening hours
+monday_friday: 9:00 – 18:00
+saturday: 10:00 – 17:00
+sunday: 10:00 – 15:00
+
+# Testimonials
+testimonials:
+    testimonials_img: parallax.jpg
+
+# Map
+map:
+    zoom: 17
+    address: Herbersteinstrasse 76, Graz, Austria
+    address_details: svg/min/logo.svg
+
+# Social settings
+facebook: http://facebook.com
+twitter: http://twitter.com
+instagram: http://instagram.com
+youtube: http://youtube.com
+skype: skype:virsto?userinfo
+feed: yes
+
+# Footer
+copyright: © 2016 SxSxS - All rights reserved
+
+# Build settings
+markdown: kramdown
+
+exclude: [
+    package.json,
+    Gruntfile.js,
+    node_modules,
+    .sass-cache,
+    Gemfile,
+    Gemfile.lock,
+    .gitignore,
+    Directories-Files_Structure.txt
+]
+
+# Theme Settings
+analytics: 
+google_verification:
